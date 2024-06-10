@@ -9,7 +9,7 @@ Core Functionalities:
 -Authentication-Authorization-validation Middlewares for patient and doctor models intractions 
 
 
--intraction with AI model that detect eyedisease
+-integration with AI model that detect eyedisease
 
 
 -save uploaded patient images of eyedisease in mongodb that will send to AI model
